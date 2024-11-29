@@ -23,7 +23,8 @@ DSA-Lab-Exercises/
 
 🚀 How to Use
 Clone the repository:
-git clone https://github.com/your-username/DS_LAB.git  
+git clone https://github.com/your-username/DS_LAB.git
+cd DS_LAB 
 Navigate to the desired folder
  
 🤝 Contributing
