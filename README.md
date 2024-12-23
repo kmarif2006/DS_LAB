@@ -27,6 +27,4 @@ git clone https://github.com/your-username/DS_LAB.git
 cd DS_LAB 
 Navigate to the desired folder
  
-🤝 Contributing
-Contributions are welcome! If you'd like to improve the solutions or add new problems,
-feel free to modify the content to suit your needs! 😊
+
